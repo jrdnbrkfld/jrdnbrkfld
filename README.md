@@ -20,6 +20,8 @@ I have completed 2 Milestone Projects and have 1 in progress.
 
 Socials:
 
-<img href="https://www.linkedin.com/in/jordanbrookfield/"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/jordanbrookfield/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 
