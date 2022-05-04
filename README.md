@@ -2,7 +2,7 @@
 
 Thank you for visiting my GitHub profile.
 
-I'm an aspiring software developer, currently enrolled on **Code Institute's** [Full Stack Software Development](https://codeinstitute.net/) course. I have acquired experience developing fully responsive websites and applications. I'm from the UK, living in Greater Manchester and currently hard at work trying to pass before the end of the year 2022. You can find me on [Twitter](https://twitter.com/Jord_Dev),  or on [LinkedIn](https://www.linkedin.com/in/jordanbrookfield/).
+I'm an aspiring software developer, currently enrolled on **Code Institute's** [Full Stack Software Development](https://codeinstitute.net/) course. I have acquired experience developing fully responsive websites and applications. I'm from the UK, living in Greater Manchester and currently hard at work trying to pass before the end of the year 2022.
 
 Languages: 
 
@@ -17,3 +17,9 @@ Skills:
 
 Projects:
 I have completed 2 Milestone Projects and have 1 in progress.
+
+Socials:
+
+<img href="https://www.linkedin.com/in/jordanbrookfield/"src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+
