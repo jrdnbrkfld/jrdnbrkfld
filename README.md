@@ -2,13 +2,14 @@
 
 Thank you for visiting my GitHub profile.
 
-I'm an aspiring software developer, currently enrolled on **Code Institute's** [Full Stack Software Development](https://codeinstitute.net/) course. I have acquired experience developing fully responsive websites and applications using HTML, CSS, JavaScript & Python. I'm from the UK, living in Greater Manchester and currently hard at work trying to pass before the end of the year 2022. You can find me on [Twitter](https://twitter.com/Jord_Dev),  or on [LinkedIn](https://www.linkedin.com/in/jordanbrookfield/).
+I'm an aspiring software developer, currently enrolled on **Code Institute's** [Full Stack Software Development](https://codeinstitute.net/) course. I have acquired experience developing fully responsive websites and applications. I'm from the UK, living in Greater Manchester and currently hard at work trying to pass before the end of the year 2022. You can find me on [Twitter](https://twitter.com/Jord_Dev),  or on [LinkedIn](https://www.linkedin.com/in/jordanbrookfield/).
 
 Languages: 
-* HTML
-* CSS
-* JavaScript
-* Python
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+"/>
+JavaScript
+Python
 
 Skills: 
 * Team Work
