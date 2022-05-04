@@ -5,7 +5,7 @@ Thank you for visiting my GitHub profile.
 I'm an aspiring software developer, currently enrolled on **Code Institute's** [Full Stack Software Development](https://codeinstitute.net/) course. I have acquired experience developing fully responsive websites and applications using HTML, CSS, JavaScript & Python. I'm from the UK, living in Greater Manchester and currently hard at work trying to pass before the end of the year 2022. You can find me on [Twitter](https://twitter.com/Jord_Dev),  or on [LinkedIn](https://www.linkedin.com/in/jordanbrookfield/).
 
 Languages: 
-* HTML
+* HTML ![html5-brands](https://user-images.githubusercontent.com/98277650/166647171-6f5a33ab-3b7c-4520-aedf-24533ae91c28.svg)
 * CSS
 * JavaScript
 * Python
