@@ -4,7 +4,7 @@ Thank you for visiting my GitHub profile.
 
 I'm an aspiring software developer, currently enrolled on **Code Institute's** [Full Stack Software Development](https://codeinstitute.net/) course. I have acquired experience developing fully responsive websites and applications. I'm from the UK, living in Greater Manchester and currently hard at work trying to pass before the end of the year 2022.
 
-<img src="https://github-readme-stats.vercel.app/api?username={jrdnbrkfld}"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jrdnbrkfld"/>
 
 Languages: 
 
