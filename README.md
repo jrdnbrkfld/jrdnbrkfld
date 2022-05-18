@@ -18,13 +18,9 @@ Skills:
 * Time Management
 * Communication
 * Problem Solving
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 Projects:
 I have completed 2 Milestone Projects and have 1 in progress.
-
-<a href="https://jrdnbrkfld.github.io/pp1-silver-street/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
-</a>
 
 Socials:
 
