@@ -30,4 +30,6 @@ Socials:
 <a href="https://twitter.com/Jord_Dev">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"/>
 </a>
-
+<a href="https://steamcommunity.com/profiles/76561198025609181/">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"/>
+</a>
