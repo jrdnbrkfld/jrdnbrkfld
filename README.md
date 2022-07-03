@@ -20,7 +20,7 @@ Skills:
 * Problem Solving
 
 Projects:
-I have completed 2 Milestone Projects and have 1 in progress.
+I have completed 3 Milestone Projects and have 1 in progress.
 
 Socials:
 
