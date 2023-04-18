@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jordan!</h1>
-<h4 align="center">I'm an aspiring software developer, currently enrolled on Code Institute's <a href="https://codeinstitute.net/">Full Stack Software Development </a>course. I have acquired experience developing fully responsive websites and applications using HTML, CSS, JavaScript & Python. With my experience in Warehousing over a 6 year period I have gained strong Time Management & Problem Solving skills. I am currently looking to obtain an opportunity as a Junior Full-Stack Developer that will allow me to continue developing my skills and create a path for my career in the Tech industry.</h4>
-
-<p align="center">🔭 I’m currently working on <a href="https://gamernetic.herokuapp.com/">Gamernetic</a></p>
+<h4 align="center">I'm an aspiring software developer, with a diploma for Code Institute's <a href="https://codeinstitute.net/">Full Stack Software Development </a>course. I have acquired experience developing fully responsive websites and applications using HTML, CSS, JavaScript & Python. I am currently looking to obtain an opportunity as a Junior Full-Stack Developer that will allow me to continue developing my skills and create a path for my career in the Tech industry.</h4>
 
 <h4 align="center">Connect with me:</h4>
 <p align="center">
