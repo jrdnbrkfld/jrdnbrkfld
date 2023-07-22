@@ -3,7 +3,6 @@
 
 <h4 align="center">Connect with me:</h4>
 <p align="center">
-<a href="https://twitter.com/jord_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jord_dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jordanbrookfield" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordanbrookfield" height="30" width="40" /></a>
 </p>
 
